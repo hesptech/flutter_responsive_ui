@@ -9,7 +9,7 @@ Widget buildTabletLayout(BoxConstraints constraints, Size screenSize) {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           const Text(
-            'Welcome to the Responsive UI Demo!',
+            'TABLET - Welcome to the Responsive UI Demo!',
             style: TextStyle(fontSize: 24),
           ),
           const SizedBox(height: 30),

@@ -9,7 +9,7 @@ Widget buildMobileLayout(BoxConstraints constraints, Size screenSize) {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           const Text(
-            'Welcome to the Responsive UI Demo!',
+            'MOBILE - Welcome to the Responsive UI Demo!',
             style: TextStyle(fontSize: 20),
           ),
           const SizedBox(height: 20),

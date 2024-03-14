@@ -10,7 +10,7 @@ Widget buildDesktopLayout(BoxConstraints constraints, Size screenSize) {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           const Text(
-            'Welcome to the Responsive UI Demo!',
+            'DESKTOP - Welcome to the Responsive UI Demo!',
             style: TextStyle(fontSize: 30),
           ),
           const SizedBox(height: 10),
